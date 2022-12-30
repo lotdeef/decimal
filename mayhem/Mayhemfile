@@ -1,0 +1,4 @@
+project: decimal
+target: decimal-setstring-fuzz
+cmds:
+  - cmd: ./setstring-fuzz.libfuzzer
